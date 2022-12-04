@@ -10,7 +10,7 @@
 
 Polygon-Mumbai Address: 0x6E57B7b60d568C36C4E21e1f01B8b5C4D975Ac22
 
-Gnosis Address: 0xc9A259d38157081d6fa2Df0607586634f923BFE1
+Gnosis Address (Chiado): 0xc9A259d38157081d6fa2Df0607586634f923BFE1
 
 🖌️ UI/UX Design: https://www.figma.com/file/uegO5a5sn9oNOX9K5l4FID/ETH-India
 

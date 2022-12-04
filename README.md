@@ -8,7 +8,7 @@
 
 💡 Contract: https://github.com/BeyondClub/contract
 
-Polygon-Mumbai Address: 0x150FC8208cb728d0b080388441bdB750d752542A
+Polygon-Mumbai Address: 0x6E57B7b60d568C36C4E21e1f01B8b5C4D975Ac22
 
 Gnosis Address: 0xc9A259d38157081d6fa2Df0607586634f923BFE1
 
